@@ -46,3 +46,7 @@ THESE ARE "PROPS" not parameteres
 access in function definition like this:
 export const ImageCmp = ({imgURL, index}) => {
 
+
+Margin vertical is above and below
+Margin is all sides
+Margin top just top
